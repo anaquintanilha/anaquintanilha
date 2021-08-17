@@ -20,7 +20,7 @@ echo "I already used ";
 echo implode(", ", $usedTecnology);
 echo ".<br><br>";
 
-echo "In this days I am consolidate knowledge and learning ";
+echo "In this days I am consolidate knowledge and learning at ";
 echo implode(", ", $learning);
 echo ".<br><br>";
 
