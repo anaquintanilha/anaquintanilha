@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ```php
 <?php
 $info = array (
@@ -27,10 +25,6 @@ echo ".<br><br>";
 ?>
 
 ```
-
-<a href="https://www.linkedin.com/in/anamborges/" target="_blank">![linkedin](https://img.shields.io/badge/-LinkedIn-/?logoColor=white&color=blue&style=flat&logo=LINKEDIN)</a>
-
-
 ---
 
 <!--
