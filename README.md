@@ -7,9 +7,9 @@ $info = array (
   'stereotype'  => 'I am a geek and a nerd, I love math and computers.'
 );
 
-$usedTecnology = array( 'C', 'C++', 'Anylogic (Java)', 'PHP', 'HTML', 'CSS', 'JavaScript', 'MySQL', 'SASS', 'Vue.js');
+$usedTecnology = array( 'C', 'C++', 'Anylogic (Java)', 'PHP', 'Laravel', 'HTML', 'CSS', 'JavaScript', 'MySQL', 'SASS', 'Tailwind', 'Vue.js');
 
-$learning = array('HTML', 'CSS', 'SASS', 'JavaScript', 'PHP', 'MySQL', 'JQuery', 'APIs', 'Vue.js', 'Vuex');
+$learning = array('JavaScript', 'PHP', 'Laravel', 'MySQL', 'Vue.js', 'Vuex');
 
   
 echo "Hi, my name is ".$info[name]." and I live at ".$info[city].", ".$info[country].". ".$info[stereotype]."<br><br>";
